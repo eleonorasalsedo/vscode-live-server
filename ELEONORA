@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Associazione IQ Monaco</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://images.unsplash.com/photo-1545249392-9fc3ef6306b3'); /* Immagine di sfondo */
+            background-size: cover;
+            background-position: center;
+            color: #ffd700; /* Colore testo oro */
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.6); /* Sfondo del contenitore con trasparenza */
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+            border-radius: 5px;
+        }
+        h1, h2 {
+            text-align: center;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Ombra testo */
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1 style="color: #ffd700;">Benvenuti nell'Associazione IQ Monaco</h1>
+    <p>L'Associazione IQ Monaco è un'organizzazione dedicata a riunire e supportare gli individui con elevato quoziente intellettivo residenti a Monte Carlo.</p>
+    
+    <h2>Cosa facciamo</h2>
+    <p>L'associazione promuove lo scambio di idee, la ricerca e lo sviluppo intellettuale tra i membri. Organizziamo conferenze, eventi culturali e attività per favorire la crescita e il benessere della nostra comunità.</p>
+    
+    <h2>I nostri valori</h2>
+    <p>Crediamo nell'eccellenza, nella condivisione del sapere e nell'impegno per il progresso individuale e collettivo. Rispettiamo la diversità delle menti e incoraggiamo la collaborazione e il dialogo costruttivo.</p>
+    
+    <h2>Unisciti a noi</h2>
+    <p>Se sei residente a Monte Carlo e condividi la nostra passione per il pensiero critico e l'apprendimento continuo, ti invitiamo a diventare membro dell'Associazione IQ Monaco. Contattaci per ulteriori informazioni.</p>
+</div>
+
+</body>
+</html>
